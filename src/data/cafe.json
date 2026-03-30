@@ -15,7 +15,7 @@
   },
   "openingHours": "11:00 AM – 10:30 PM",
   "heroImage": "",
-  "logoUrl": "",
+  "logoUrl": "src/assets/images/logo.jpg",
   "mascot": "Bob The Bubble",
   "googleMapsUrl": "https://maps.google.com/?q=30.7333,76.7794"
 }

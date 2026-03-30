@@ -1,0 +1,91 @@
+{
+  "_comment": "CSS filter strings to tint black icons. Use 'invert' for white, or custom filter for brand colors.",
+  "_howto": "Apply via style={{ filter: iconTints.navbar.active }} on <img> elements.",
+
+  "navbar": {
+    "default":  "brightness(0) invert(0.5)",
+    "active":   "brightness(0) invert(1)",
+    "hover":    "brightness(0) invert(1)",
+    "logo":     "none"
+  },
+
+  "mobileBottomNav": {
+    "default":  "brightness(0) invert(0.4)",
+    "active":   "invert(32%) sepia(98%) saturate(7494%) hue-rotate(349deg) brightness(98%) contrast(116%)",
+    "hover":    "brightness(0) invert(0.8)"
+  },
+
+  "adminSidebar": {
+    "default":  "brightness(0) invert(0.45)",
+    "active":   "invert(32%) sepia(98%) saturate(7494%) hue-rotate(349deg) brightness(98%) contrast(116%)",
+    "hover":    "brightness(0) invert(0.8)"
+  },
+
+  "menuPage": {
+    "search":   "brightness(0) invert(0.5)",
+    "filter":   "brightness(0) invert(0.5)",
+    "veg":      "none",
+    "nonveg":   "none"
+  },
+
+  "cartPage": {
+    "delete":   "invert(32%) sepia(98%) saturate(7494%) hue-rotate(349deg) brightness(98%) contrast(116%)",
+    "icon":     "brightness(0) invert(0.6)"
+  },
+
+  "checkoutPage": {
+    "upi":      "none",
+    "location": "invert(32%) sepia(98%) saturate(7494%) hue-rotate(349deg) brightness(98%) contrast(116%)"
+  },
+
+  "heroSection": {
+    "icon":     "brightness(0) invert(1)"
+  },
+
+  "footer": {
+    "social":   "brightness(0) invert(0.6)",
+    "contact":  "brightness(0) invert(0.5)"
+  },
+
+  "adminDashboard": {
+    "kpi":      "brightness(0) invert(0.7)",
+    "action":   "brightness(0) invert(0.5)"
+  },
+
+  "adminOrders": {
+    "status":   "brightness(0) invert(0.6)",
+    "action":   "brightness(0) invert(0.5)"
+  },
+
+  "adminMenu": {
+    "edit":     "brightness(0) saturate(100%) invert(56%) sepia(75%) saturate(456%) hue-rotate(177deg) brightness(97%) contrast(93%)",
+    "delete":   "invert(32%) sepia(98%) saturate(7494%) hue-rotate(349deg) brightness(98%) contrast(116%)",
+    "toggle":   "brightness(0) invert(0.6)",
+    "search":   "brightness(0) invert(0.5)"
+  },
+
+  "adminOffers": {
+    "icon":     "brightness(0) invert(0.6)",
+    "delete":   "invert(32%) sepia(98%) saturate(7494%) hue-rotate(349deg) brightness(98%) contrast(116%)"
+  },
+
+  "adminUsers": {
+    "whatsapp": "none",
+    "icon":     "brightness(0) invert(0.6)"
+  },
+
+  "adminStaff": {
+    "delete":   "invert(32%) sepia(98%) saturate(7494%) hue-rotate(349deg) brightness(98%) contrast(116%)",
+    "icon":     "brightness(0) invert(0.6)"
+  },
+
+  "profilePage": {
+    "icon":     "brightness(0) invert(0.6)",
+    "edit":     "invert(32%) sepia(98%) saturate(7494%) hue-rotate(349deg) brightness(98%) contrast(116%)"
+  },
+
+  "settingsPage": {
+    "icon":     "brightness(0) invert(0.5)",
+    "logout":   "invert(32%) sepia(98%) saturate(7494%) hue-rotate(349deg) brightness(98%) contrast(116%)"
+  }
+}
