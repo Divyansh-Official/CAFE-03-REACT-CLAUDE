@@ -1,0 +1,21 @@
+{
+  "name": "Bobba Bobba & Hungroo",
+  "tagline": "The Coolest Bubble Bar",
+  "description": "Best Bobba Drinks, Bingsu Icecream, Ramens & More",
+  "address": "Shop No. 360, Sector 15D, Patel Market, Chandigarh 160015",
+  "phone": "76529 71816",
+  "email": "bobbabobbaofficial@gmail.com",
+  "coordinates": { "lat": 30.7333, "lng": 76.7794 },
+  "social": {
+    "instagram": "https://www.instagram.com/bobbabobbaofficial/",
+    "facebook": "https://www.facebook.com/Bobbabobbaofficial",
+    "zomato": "https://www.zomato.com/chandigarh/bobba-bobba",
+    "swiggy": "",
+    "whatsapp": "https://wa.me/917652971816"
+  },
+  "openingHours": "11:00 AM – 10:30 PM",
+  "heroImage": "",
+  "logoUrl": "",
+  "mascot": "Bob The Bubble",
+  "googleMapsUrl": "https://maps.google.com/?q=30.7333,76.7794"
+}
