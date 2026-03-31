@@ -15,7 +15,7 @@
   "filter":       { "name": "Filter",       "url": "https://img.icons8.com/?size=100&id=Nlsm3NHtcIb6&format=png&color=000000" },
   "location":     { "name": "Location",     "url": "https://img.icons8.com/?size=100&id=7880&format=png&color=000000" },
   "phone":        { "name": "Phone",        "url": "https://img.icons8.com/?size=100&id=9659&format=png&color=000000" },
-  "logout":       { "name": "Logout",       "url": "https://img.icons8.com/?size=100&id=O78GFWyAFkHa&format=png&color=000000" },
+  "logout":       { "name": "Logout",       "url": "https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" },
   "add":          { "name": "Add",          "url": "https://img.icons8.com/?size=100&id=1501&format=png&color=000000" },
   "delete":       { "name": "Delete",       "url": "https://img.icons8.com/?size=100&id=67838&format=png&color=000000" },
   "edit":         { "name": "Edit",         "url": "https://img.icons8.com/?size=100&id=OZzfhJMRMXPe&format=png&color=000000" },

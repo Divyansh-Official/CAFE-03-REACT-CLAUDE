@@ -5,7 +5,7 @@
   "address": "Shop No. 360, Sector 15D, Patel Market, Chandigarh 160015",
   "phone": "76529 71816",
   "email": "bobbabobbaofficial@gmail.com",
-  "coordinates": { "lat": 30.7333, "lng": 76.7794 },
+  "coordinates": { "lat": 30.75344, "lng": 76.77103 },
   "social": {
     "instagram": "https://www.instagram.com/bobbabobbaofficial/",
     "facebook": "https://www.facebook.com/Bobbabobbaofficial",
@@ -17,5 +17,5 @@
   "heroImage": "",
   "logoUrl": "src/assets/images/logo.jpg",
   "mascot": "Bob The Bubble",
-  "googleMapsUrl": "https://maps.google.com/?q=30.7333,76.7794"
+  "googleMapsUrl": "https://maps.app.goo.gl/ApychstbYQeEXJFR9"
 }

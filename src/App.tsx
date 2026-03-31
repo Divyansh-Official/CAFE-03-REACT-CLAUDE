@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { Toaster } from 'react-hot-toast';
+// import { CursorParticles } from './components/common/CursorParticles';
 
 // Layout
 import Navbar            from './components/layout/Navbar';
@@ -57,6 +58,7 @@ const AppInner: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-surface text-white font-body">
+      {/* {!isAdmin && !isMinimal && <CursorParticles />} */}
       {!isAdmin && <ParticleBackground />}
 
       {!isAdmin && (
